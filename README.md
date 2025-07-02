@@ -1,7 +1,7 @@
 ## Hi I'm David 
 
 👨‍💻 Aspiring App Developer
-📅 Curently Compleing an App Academy-Full-Stack Program | May–July 2025:
+📅 Curently Completing an App Academy-Full-Stack Program | May–July 2025:
 🖥️ Frontend & UX | HTML, Layouts, Transitions
 🔗 Github & Collaboration
 📡 APIs & Data Handling
